@@ -1,0 +1,14 @@
+D:\Учеба\2 КУРС\КПиЯП\Практика\day3\Task4\bin\Debug\net8.0\Task4.exe
+D:\Учеба\2 КУРС\КПиЯП\Практика\day3\Task4\bin\Debug\net8.0\Task4.deps.json
+D:\Учеба\2 КУРС\КПиЯП\Практика\day3\Task4\bin\Debug\net8.0\Task4.runtimeconfig.json
+D:\Учеба\2 КУРС\КПиЯП\Практика\day3\Task4\bin\Debug\net8.0\Task4.dll
+D:\Учеба\2 КУРС\КПиЯП\Практика\day3\Task4\bin\Debug\net8.0\Task4.pdb
+D:\Учеба\2 КУРС\КПиЯП\Практика\day3\Task4\obj\Debug\net8.0\Task4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\2 КУРС\КПиЯП\Практика\day3\Task4\obj\Debug\net8.0\Task4.AssemblyInfoInputs.cache
+D:\Учеба\2 КУРС\КПиЯП\Практика\day3\Task4\obj\Debug\net8.0\Task4.AssemblyInfo.cs
+D:\Учеба\2 КУРС\КПиЯП\Практика\day3\Task4\obj\Debug\net8.0\Task4.csproj.CoreCompileInputs.cache
+D:\Учеба\2 КУРС\КПиЯП\Практика\day3\Task4\obj\Debug\net8.0\Task4.dll
+D:\Учеба\2 КУРС\КПиЯП\Практика\day3\Task4\obj\Debug\net8.0\refint\Task4.dll
+D:\Учеба\2 КУРС\КПиЯП\Практика\day3\Task4\obj\Debug\net8.0\Task4.pdb
+D:\Учеба\2 КУРС\КПиЯП\Практика\day3\Task4\obj\Debug\net8.0\Task4.genruntimeconfig.cache
+D:\Учеба\2 КУРС\КПиЯП\Практика\day3\Task4\obj\Debug\net8.0\ref\Task4.dll
