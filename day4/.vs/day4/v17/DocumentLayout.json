@@ -1,0 +1,328 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\Documents\\GitHub\\practice_43tp\\day4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CAB4046-728D-46E6-9F8E-EE85744B9770}|Task2\\Task2.csproj|c:\\users\\asus\\documents\\github\\practice_43tp\\day4\\task2\\right.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CAB4046-728D-46E6-9F8E-EE85744B9770}|Task2\\Task2.csproj|solutionrelative:task2\\right.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CAB4046-728D-46E6-9F8E-EE85744B9770}|Task2\\Task2.csproj|c:\\users\\asus\\documents\\github\\practice_43tp\\day4\\task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CAB4046-728D-46E6-9F8E-EE85744B9770}|Task2\\Task2.csproj|solutionrelative:task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{309C9963-7F98-444A-A02D-6212DA9887D1}|Task1\\Task1.csproj|c:\\users\\asus\\documents\\github\\practice_43tp\\day4\\task1\\average.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{309C9963-7F98-444A-A02D-6212DA9887D1}|Task1\\Task1.csproj|solutionrelative:task1\\average.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{309C9963-7F98-444A-A02D-6212DA9887D1}|Task1\\Task1.csproj|c:\\users\\asus\\documents\\github\\practice_43tp\\day4\\task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{309C9963-7F98-444A-A02D-6212DA9887D1}|Task1\\Task1.csproj|solutionrelative:task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5AEF2E1-FF5B-4E12-8EDF-1B17F29C5637}|Task8\\Task8.csproj|c:\\users\\asus\\documents\\github\\practice_43tp\\day4\\task8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5AEF2E1-FF5B-4E12-8EDF-1B17F29C5637}|Task8\\Task8.csproj|solutionrelative:task8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5AEF2E1-FF5B-4E12-8EDF-1B17F29C5637}|Task8\\Task8.csproj|c:\\users\\asus\\documents\\github\\practice_43tp\\day4\\task8\\minvaluecalc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5AEF2E1-FF5B-4E12-8EDF-1B17F29C5637}|Task8\\Task8.csproj|solutionrelative:task8\\minvaluecalc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC6745E3-E340-4E1C-A305-CCE0A639ECEA}|Task7\\Task7.csproj|c:\\users\\asus\\documents\\github\\practice_43tp\\day4\\task7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC6745E3-E340-4E1C-A305-CCE0A639ECEA}|Task7\\Task7.csproj|solutionrelative:task7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC6745E3-E340-4E1C-A305-CCE0A639ECEA}|Task7\\Task7.csproj|c:\\users\\asus\\documents\\github\\practice_43tp\\day4\\task7\\discountcalc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC6745E3-E340-4E1C-A305-CCE0A639ECEA}|Task7\\Task7.csproj|solutionrelative:task7\\discountcalc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0E38F70-94ED-487F-AC91-1BAC3AB64483}|Task6\\Task6.csproj|c:\\users\\asus\\documents\\github\\practice_43tp\\day4\\task6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0E38F70-94ED-487F-AC91-1BAC3AB64483}|Task6\\Task6.csproj|solutionrelative:task6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0E38F70-94ED-487F-AC91-1BAC3AB64483}|Task6\\Task6.csproj|c:\\users\\asus\\documents\\github\\practice_43tp\\day4\\task6\\geometry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0E38F70-94ED-487F-AC91-1BAC3AB64483}|Task6\\Task6.csproj|solutionrelative:task6\\geometry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C26EF48B-3229-44AC-997E-7E4A99B0A4CC}|Task5\\Task5.csproj|c:\\users\\asus\\documents\\github\\practice_43tp\\day4\\task5\\sphere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C26EF48B-3229-44AC-997E-7E4A99B0A4CC}|Task5\\Task5.csproj|solutionrelative:task5\\sphere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C26EF48B-3229-44AC-997E-7E4A99B0A4CC}|Task5\\Task5.csproj|c:\\users\\asus\\documents\\github\\practice_43tp\\day4\\task5\\shape3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C26EF48B-3229-44AC-997E-7E4A99B0A4CC}|Task5\\Task5.csproj|solutionrelative:task5\\shape3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C26EF48B-3229-44AC-997E-7E4A99B0A4CC}|Task5\\Task5.csproj|c:\\users\\asus\\documents\\github\\practice_43tp\\day4\\task5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C26EF48B-3229-44AC-997E-7E4A99B0A4CC}|Task5\\Task5.csproj|solutionrelative:task5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C26EF48B-3229-44AC-997E-7E4A99B0A4CC}|Task5\\Task5.csproj|c:\\users\\asus\\documents\\github\\practice_43tp\\day4\\task5\\cube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C26EF48B-3229-44AC-997E-7E4A99B0A4CC}|Task5\\Task5.csproj|solutionrelative:task5\\cube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65F7C027-A6DD-46FD-BF08-3D7EA37417E5}|Task4\\Task4.csproj|c:\\users\\asus\\documents\\github\\practice_43tp\\day4\\task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65F7C027-A6DD-46FD-BF08-3D7EA37417E5}|Task4\\Task4.csproj|solutionrelative:task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65F7C027-A6DD-46FD-BF08-3D7EA37417E5}|Task4\\Task4.csproj|c:\\users\\asus\\documents\\github\\practice_43tp\\day4\\task4\\extension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65F7C027-A6DD-46FD-BF08-3D7EA37417E5}|Task4\\Task4.csproj|solutionrelative:task4\\extension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{511AC633-EDFB-49F8-B933-6B7820DCD835}|Task3\\Task3.csproj|c:\\users\\asus\\documents\\github\\practice_43tp\\day4\\task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{511AC633-EDFB-49F8-B933-6B7820DCD835}|Task3\\Task3.csproj|solutionrelative:task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{511AC633-EDFB-49F8-B933-6B7820DCD835}|Task3\\Task3.csproj|c:\\users\\asus\\documents\\github\\practice_43tp\\day4\\task3\\number.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{511AC633-EDFB-49F8-B933-6B7820DCD835}|Task3\\Task3.csproj|solutionrelative:task3\\number.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{511AC633-EDFB-49F8-B933-6B7820DCD835}|Task3\\Task3.csproj|c:\\users\\asus\\documents\\github\\practice_43tp\\day4\\task3\\examination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{511AC633-EDFB-49F8-B933-6B7820DCD835}|Task3\\Task3.csproj|solutionrelative:task3\\examination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Average.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Documents\\GitHub\\practice_43tp\\day4\\Task1\\Average.cs",
+              "RelativeDocumentMoniker": "Task1\\Average.cs",
+              "ToolTip": "C:\\Users\\Asus\\Documents\\GitHub\\practice_43tp\\day4\\Task1\\Average.cs",
+              "RelativeToolTip": "Task1\\Average.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T06:26:00.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Documents\\GitHub\\practice_43tp\\day4\\Task1\\Program.cs",
+              "RelativeDocumentMoniker": "Task1\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\Documents\\GitHub\\practice_43tp\\day4\\Task1\\Program.cs",
+              "RelativeToolTip": "Task1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T06:18:22.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Documents\\GitHub\\practice_43tp\\day4\\Task7\\Program.cs",
+              "RelativeDocumentMoniker": "Task7\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\Documents\\GitHub\\practice_43tp\\day4\\Task7\\Program.cs",
+              "RelativeToolTip": "Task7\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T12:51:39.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DiscountCalc.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Documents\\GitHub\\practice_43tp\\day4\\Task7\\DiscountCalc.cs",
+              "RelativeDocumentMoniker": "Task7\\DiscountCalc.cs",
+              "ToolTip": "C:\\Users\\Asus\\Documents\\GitHub\\practice_43tp\\day4\\Task7\\DiscountCalc.cs",
+              "RelativeToolTip": "Task7\\DiscountCalc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T12:54:44.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Documents\\GitHub\\practice_43tp\\day4\\Task6\\Program.cs",
+              "RelativeDocumentMoniker": "Task6\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\Documents\\GitHub\\practice_43tp\\day4\\Task6\\Program.cs",
+              "RelativeToolTip": "Task6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T08:31:32.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Geometry.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Documents\\GitHub\\practice_43tp\\day4\\Task6\\Geometry.cs",
+              "RelativeDocumentMoniker": "Task6\\Geometry.cs",
+              "ToolTip": "C:\\Users\\Asus\\Documents\\GitHub\\practice_43tp\\day4\\Task6\\Geometry.cs",
+              "RelativeToolTip": "Task6\\Geometry.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T12:43:29.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Sphere.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Documents\\GitHub\\practice_43tp\\day4\\Task5\\Sphere.cs",
+              "RelativeDocumentMoniker": "Task5\\Sphere.cs",
+              "ToolTip": "C:\\Users\\Asus\\Documents\\GitHub\\practice_43tp\\day4\\Task5\\Sphere.cs",
+              "RelativeToolTip": "Task5\\Sphere.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T08:08:50.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Shape3D.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Documents\\GitHub\\practice_43tp\\day4\\Task5\\Shape3D.cs",
+              "RelativeDocumentMoniker": "Task5\\Shape3D.cs",
+              "ToolTip": "C:\\Users\\Asus\\Documents\\GitHub\\practice_43tp\\day4\\Task5\\Shape3D.cs",
+              "RelativeToolTip": "Task5\\Shape3D.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T08:06:09.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Documents\\GitHub\\practice_43tp\\day4\\Task5\\Program.cs",
+              "RelativeDocumentMoniker": "Task5\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\Documents\\GitHub\\practice_43tp\\day4\\Task5\\Program.cs",
+              "RelativeToolTip": "Task5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T08:04:05.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Documents\\GitHub\\practice_43tp\\day4\\Task2\\Program.cs",
+              "RelativeDocumentMoniker": "Task2\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\Documents\\GitHub\\practice_43tp\\day4\\Task2\\Program.cs",
+              "RelativeToolTip": "Task2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T06:57:33.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Right.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Documents\\GitHub\\practice_43tp\\day4\\Task2\\Right.cs",
+              "RelativeDocumentMoniker": "Task2\\Right.cs",
+              "ToolTip": "C:\\Users\\Asus\\Documents\\GitHub\\practice_43tp\\day4\\Task2\\Right.cs",
+              "RelativeToolTip": "Task2\\Right.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T07:03:07.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Documents\\GitHub\\practice_43tp\\day4\\Task8\\Program.cs",
+              "RelativeDocumentMoniker": "Task8\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\Documents\\GitHub\\practice_43tp\\day4\\Task8\\Program.cs",
+              "RelativeToolTip": "Task8\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T13:06:43.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MinValueCalc.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Documents\\GitHub\\practice_43tp\\day4\\Task8\\MinValueCalc.cs",
+              "RelativeDocumentMoniker": "Task8\\MinValueCalc.cs",
+              "ToolTip": "C:\\Users\\Asus\\Documents\\GitHub\\practice_43tp\\day4\\Task8\\MinValueCalc.cs",
+              "RelativeToolTip": "Task8\\MinValueCalc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T13:07:33.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Cube.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Documents\\GitHub\\practice_43tp\\day4\\Task5\\Cube.cs",
+              "RelativeDocumentMoniker": "Task5\\Cube.cs",
+              "ToolTip": "C:\\Users\\Asus\\Documents\\GitHub\\practice_43tp\\day4\\Task5\\Cube.cs",
+              "RelativeToolTip": "Task5\\Cube.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T08:12:37.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Documents\\GitHub\\practice_43tp\\day4\\Task4\\Program.cs",
+              "RelativeDocumentMoniker": "Task4\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\Documents\\GitHub\\practice_43tp\\day4\\Task4\\Program.cs",
+              "RelativeToolTip": "Task4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T07:38:35.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Extension.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Documents\\GitHub\\practice_43tp\\day4\\Task4\\Extension.cs",
+              "RelativeDocumentMoniker": "Task4\\Extension.cs",
+              "ToolTip": "C:\\Users\\Asus\\Documents\\GitHub\\practice_43tp\\day4\\Task4\\Extension.cs",
+              "RelativeToolTip": "Task4\\Extension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T07:45:34.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Documents\\GitHub\\practice_43tp\\day4\\Task3\\Program.cs",
+              "RelativeDocumentMoniker": "Task3\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\Documents\\GitHub\\practice_43tp\\day4\\Task3\\Program.cs",
+              "RelativeToolTip": "Task3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T07:14:44.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Number.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Documents\\GitHub\\practice_43tp\\day4\\Task3\\Number.cs",
+              "RelativeDocumentMoniker": "Task3\\Number.cs",
+              "ToolTip": "C:\\Users\\Asus\\Documents\\GitHub\\practice_43tp\\day4\\Task3\\Number.cs",
+              "RelativeToolTip": "Task3\\Number.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T07:25:32.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Examination.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Documents\\GitHub\\practice_43tp\\day4\\Task3\\Examination.cs",
+              "RelativeDocumentMoniker": "Task3\\Examination.cs",
+              "ToolTip": "C:\\Users\\Asus\\Documents\\GitHub\\practice_43tp\\day4\\Task3\\Examination.cs",
+              "RelativeToolTip": "Task3\\Examination.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T07:28:08.671Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

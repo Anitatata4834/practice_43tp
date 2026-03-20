@@ -1,0 +1,18 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Task6
+{
+    class Geometry
+    {
+        public static double Leng(double xA, double yA, double xB, double yB)
+        {
+            double dx = xA - xB;
+            double dy = yA - yB;
+            return Math.Sqrt(dx * dx + dy * dy);
+        }
+    }
+}
