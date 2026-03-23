@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0438\u042F\u041F\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{097C43F7-F4DA-458E-8DF2-B0943F06F567}|Task2\\Task2.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u043A\u043F\u0438\u044F\u043F\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day6\\task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{097C43F7-F4DA-458E-8DF2-B0943F06F567}|Task2\\Task2.csproj|solutionrelative:task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{097C43F7-F4DA-458E-8DF2-B0943F06F567}|Task2\\Task2.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u043A\u043F\u0438\u044F\u043F\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day6\\task2\\methods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{097C43F7-F4DA-458E-8DF2-B0943F06F567}|Task2\\Task2.csproj|solutionrelative:task2\\methods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CAB92AF-C059-494D-91C8-8EC24F9977AE}|Task3\\Task3.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u043A\u043F\u0438\u044F\u043F\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day6\\task3\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CAB92AF-C059-494D-91C8-8EC24F9977AE}|Task3\\Task3.csproj|solutionrelative:task3\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CAB92AF-C059-494D-91C8-8EC24F9977AE}|Task3\\Task3.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u043A\u043F\u0438\u044F\u043F\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day6\\task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CAB92AF-C059-494D-91C8-8EC24F9977AE}|Task3\\Task3.csproj|solutionrelative:task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CAB92AF-C059-494D-91C8-8EC24F9977AE}|Task3\\Task3.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u043A\u043F\u0438\u044F\u043F\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day6\\task3\\securitysystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CAB92AF-C059-494D-91C8-8EC24F9977AE}|Task3\\Task3.csproj|solutionrelative:task3\\securitysystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CAB92AF-C059-494D-91C8-8EC24F9977AE}|Task3\\Task3.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u043A\u043F\u0438\u044F\u043F\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day6\\task3\\userloginmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CAB92AF-C059-494D-91C8-8EC24F9977AE}|Task3\\Task3.csproj|solutionrelative:task3\\userloginmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34170BBE-4841-41F8-8B5A-E51E4A1C467F}|Task4\\Task4.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u043A\u043F\u0438\u044F\u043F\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day6\\task4\\displaypanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34170BBE-4841-41F8-8B5A-E51E4A1C467F}|Task4\\Task4.csproj|solutionrelative:task4\\displaypanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34170BBE-4841-41F8-8B5A-E51E4A1C467F}|Task4\\Task4.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u043A\u043F\u0438\u044F\u043F\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day6\\task4\\weathermonitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34170BBE-4841-41F8-8B5A-E51E4A1C467F}|Task4\\Task4.csproj|solutionrelative:task4\\weathermonitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34170BBE-4841-41F8-8B5A-E51E4A1C467F}|Task4\\Task4.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u043A\u043F\u0438\u044F\u043F\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day6\\task4\\weatherstation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34170BBE-4841-41F8-8B5A-E51E4A1C467F}|Task4\\Task4.csproj|solutionrelative:task4\\weatherstation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34170BBE-4841-41F8-8B5A-E51E4A1C467F}|Task4\\Task4.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u043A\u043F\u0438\u044F\u043F\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day6\\task4\\warningsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34170BBE-4841-41F8-8B5A-E51E4A1C467F}|Task4\\Task4.csproj|solutionrelative:task4\\warningsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34170BBE-4841-41F8-8B5A-E51E4A1C467F}|Task4\\Task4.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u043A\u043F\u0438\u044F\u043F\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day6\\task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34170BBE-4841-41F8-8B5A-E51E4A1C467F}|Task4\\Task4.csproj|solutionrelative:task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF55046A-D6D8-469E-94F1-30EAF5C87C3E}|Task1\\Task1.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u043A\u043F\u0438\u044F\u043F\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day6\\task1\\dateformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF55046A-D6D8-469E-94F1-30EAF5C87C3E}|Task1\\Task1.csproj|solutionrelative:task1\\dateformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF55046A-D6D8-469E-94F1-30EAF5C87C3E}|Task1\\Task1.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u043A\u043F\u0438\u044F\u043F\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day6\\task1\\timeformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF55046A-D6D8-469E-94F1-30EAF5C87C3E}|Task1\\Task1.csproj|solutionrelative:task1\\timeformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF55046A-D6D8-469E-94F1-30EAF5C87C3E}|Task1\\Task1.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u043A\u043F\u0438\u044F\u043F\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day6\\task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF55046A-D6D8-469E-94F1-30EAF5C87C3E}|Task1\\Task1.csproj|solutionrelative:task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0438\u042F\u041F\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day6\\Task3\\Program.cs",
+              "RelativeDocumentMoniker": "Task3\\Program.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0438\u042F\u041F\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day6\\Task3\\Program.cs",
+              "RelativeToolTip": "Task3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T07:02:48.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NotificationService.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0438\u042F\u041F\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day6\\Task3\\NotificationService.cs",
+              "RelativeDocumentMoniker": "Task3\\NotificationService.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0438\u042F\u041F\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day6\\Task3\\NotificationService.cs",
+              "RelativeToolTip": "Task3\\NotificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T08:01:43.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0438\u042F\u041F\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day6\\Task2\\Program.cs",
+              "RelativeDocumentMoniker": "Task2\\Program.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0438\u042F\u041F\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day6\\Task2\\Program.cs",
+              "RelativeToolTip": "Task2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T07:00:40.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Methods.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0438\u042F\u041F\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day6\\Task2\\Methods.cs",
+              "RelativeDocumentMoniker": "Task2\\Methods.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0438\u042F\u041F\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day6\\Task2\\Methods.cs",
+              "RelativeToolTip": "Task2\\Methods.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T07:28:35.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SecuritySystem.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0438\u042F\u041F\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day6\\Task3\\SecuritySystem.cs",
+              "RelativeDocumentMoniker": "Task3\\SecuritySystem.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0438\u042F\u041F\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day6\\Task3\\SecuritySystem.cs",
+              "RelativeToolTip": "Task3\\SecuritySystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T08:00:18.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserLoginManager.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0438\u042F\u041F\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day6\\Task3\\UserLoginManager.cs",
+              "RelativeDocumentMoniker": "Task3\\UserLoginManager.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0438\u042F\u041F\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day6\\Task3\\UserLoginManager.cs",
+              "RelativeToolTip": "Task3\\UserLoginManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T07:06:24.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DisplayPanel.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0438\u042F\u041F\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day6\\Task4\\DisplayPanel.cs",
+              "RelativeDocumentMoniker": "Task4\\DisplayPanel.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0438\u042F\u041F\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day6\\Task4\\DisplayPanel.cs",
+              "RelativeToolTip": "Task4\\DisplayPanel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T08:32:00.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherMonitor.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0438\u042F\u041F\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day6\\Task4\\WeatherMonitor.cs",
+              "RelativeDocumentMoniker": "Task4\\WeatherMonitor.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0438\u042F\u041F\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day6\\Task4\\WeatherMonitor.cs",
+              "RelativeToolTip": "Task4\\WeatherMonitor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T08:41:06.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WeatherStation.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0438\u042F\u041F\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day6\\Task4\\WeatherStation.cs",
+              "RelativeDocumentMoniker": "Task4\\WeatherStation.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0438\u042F\u041F\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day6\\Task4\\WeatherStation.cs",
+              "RelativeToolTip": "Task4\\WeatherStation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T08:18:20.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WarningSystem.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0438\u042F\u041F\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day6\\Task4\\WarningSystem.cs",
+              "RelativeDocumentMoniker": "Task4\\WarningSystem.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0438\u042F\u041F\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day6\\Task4\\WarningSystem.cs",
+              "RelativeToolTip": "Task4\\WarningSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T08:35:10.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0438\u042F\u041F\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day6\\Task4\\Program.cs",
+              "RelativeDocumentMoniker": "Task4\\Program.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0438\u042F\u041F\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day6\\Task4\\Program.cs",
+              "RelativeToolTip": "Task4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T08:15:32.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DateFormatter.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0438\u042F\u041F\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day6\\Task1\\DateFormatter.cs",
+              "RelativeDocumentMoniker": "Task1\\DateFormatter.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0438\u042F\u041F\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day6\\Task1\\DateFormatter.cs",
+              "RelativeToolTip": "Task1\\DateFormatter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T06:25:32.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TimeFormatter.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0438\u042F\u041F\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day6\\Task1\\TimeFormatter.cs",
+              "RelativeDocumentMoniker": "Task1\\TimeFormatter.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0438\u042F\u041F\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day6\\Task1\\TimeFormatter.cs",
+              "RelativeToolTip": "Task1\\TimeFormatter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T06:25:15.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0438\u042F\u041F\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day6\\Task1\\Program.cs",
+              "RelativeDocumentMoniker": "Task1\\Program.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0438\u042F\u041F\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day6\\Task1\\Program.cs",
+              "RelativeToolTip": "Task1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T06:20:49.8Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
