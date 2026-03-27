@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0438\u042F\u041F\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1598F29-7142-4340-841F-CAA62ECD4586}|Task1\\Task1.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u043A\u043F\u0438\u044F\u043F\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day10\\task1\\audioplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1598F29-7142-4340-841F-CAA62ECD4586}|Task1\\Task1.csproj|solutionrelative:task1\\audioplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C5C2644-9BD7-4142-8B92-3DC42F100CEC}|Task2\\Task2.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u043A\u043F\u0438\u044F\u043F\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day10\\task2\\iauthstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C5C2644-9BD7-4142-8B92-3DC42F100CEC}|Task2\\Task2.csproj|solutionrelative:task2\\iauthstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7138360-47DF-44FD-8BBB-CC61D4880CB6}|Task3\\Task3.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u043A\u043F\u0438\u044F\u043F\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day10\\task3\\iorderobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7138360-47DF-44FD-8BBB-CC61D4880CB6}|Task3\\Task3.csproj|solutionrelative:task3\\iorderobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7138360-47DF-44FD-8BBB-CC61D4880CB6}|Task3\\Task3.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u043A\u043F\u0438\u044F\u043F\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day10\\task3\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7138360-47DF-44FD-8BBB-CC61D4880CB6}|Task3\\Task3.csproj|solutionrelative:task3\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7138360-47DF-44FD-8BBB-CC61D4880CB6}|Task3\\Task3.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u043A\u043F\u0438\u044F\u043F\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day10\\task3\\chef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7138360-47DF-44FD-8BBB-CC61D4880CB6}|Task3\\Task3.csproj|solutionrelative:task3\\chef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7138360-47DF-44FD-8BBB-CC61D4880CB6}|Task3\\Task3.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u043A\u043F\u0438\u044F\u043F\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day10\\task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7138360-47DF-44FD-8BBB-CC61D4880CB6}|Task3\\Task3.csproj|solutionrelative:task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7138360-47DF-44FD-8BBB-CC61D4880CB6}|Task3\\Task3.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u043A\u043F\u0438\u044F\u043F\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day10\\task3\\waiter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7138360-47DF-44FD-8BBB-CC61D4880CB6}|Task3\\Task3.csproj|solutionrelative:task3\\waiter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7138360-47DF-44FD-8BBB-CC61D4880CB6}|Task3\\Task3.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u043A\u043F\u0438\u044F\u043F\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day10\\task3\\ordersystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7138360-47DF-44FD-8BBB-CC61D4880CB6}|Task3\\Task3.csproj|solutionrelative:task3\\ordersystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1598F29-7142-4340-841F-CAA62ECD4586}|Task1\\Task1.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u043A\u043F\u0438\u044F\u043F\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day10\\task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1598F29-7142-4340-841F-CAA62ECD4586}|Task1\\Task1.csproj|solutionrelative:task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C5C2644-9BD7-4142-8B92-3DC42F100CEC}|Task2\\Task2.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u043A\u043F\u0438\u044F\u043F\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day10\\task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C5C2644-9BD7-4142-8B92-3DC42F100CEC}|Task2\\Task2.csproj|solutionrelative:task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C5C2644-9BD7-4142-8B92-3DC42F100CEC}|Task2\\Task2.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u043A\u043F\u0438\u044F\u043F\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day10\\task2\\oauthauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C5C2644-9BD7-4142-8B92-3DC42F100CEC}|Task2\\Task2.csproj|solutionrelative:task2\\oauthauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C5C2644-9BD7-4142-8B92-3DC42F100CEC}|Task2\\Task2.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u043A\u043F\u0438\u044F\u043F\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day10\\task2\\jwtauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C5C2644-9BD7-4142-8B92-3DC42F100CEC}|Task2\\Task2.csproj|solutionrelative:task2\\jwtauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C5C2644-9BD7-4142-8B92-3DC42F100CEC}|Task2\\Task2.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u043A\u043F\u0438\u044F\u043F\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day10\\task2\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C5C2644-9BD7-4142-8B92-3DC42F100CEC}|Task2\\Task2.csproj|solutionrelative:task2\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C5C2644-9BD7-4142-8B92-3DC42F100CEC}|Task2\\Task2.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u043A\u043F\u0438\u044F\u043F\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day10\\task2\\basicauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C5C2644-9BD7-4142-8B92-3DC42F100CEC}|Task2\\Task2.csproj|solutionrelative:task2\\basicauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AudioPlayer.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0438\u042F\u041F\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day10\\Task1\\AudioPlayer.cs",
+              "RelativeDocumentMoniker": "Task1\\AudioPlayer.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0438\u042F\u041F\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day10\\Task1\\AudioPlayer.cs",
+              "RelativeToolTip": "Task1\\AudioPlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T06:10:52.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0438\u042F\u041F\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day10\\Task1\\Program.cs",
+              "RelativeDocumentMoniker": "Task1\\Program.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0438\u042F\u041F\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day10\\Task1\\Program.cs",
+              "RelativeToolTip": "Task1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T06:03:55.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0438\u042F\u041F\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day10\\Task2\\Program.cs",
+              "RelativeDocumentMoniker": "Task2\\Program.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0438\u042F\u041F\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day10\\Task2\\Program.cs",
+              "RelativeToolTip": "Task2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T06:26:21.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0438\u042F\u041F\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day10\\Task3\\Customer.cs",
+              "RelativeDocumentMoniker": "Task3\\Customer.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0438\u042F\u041F\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day10\\Task3\\Customer.cs",
+              "RelativeToolTip": "Task3\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T07:26:47.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Chef.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0438\u042F\u041F\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day10\\Task3\\Chef.cs",
+              "RelativeDocumentMoniker": "Task3\\Chef.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0438\u042F\u041F\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day10\\Task3\\Chef.cs",
+              "RelativeToolTip": "Task3\\Chef.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T07:26:57.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderSystem.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0438\u042F\u041F\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day10\\Task3\\OrderSystem.cs",
+              "RelativeDocumentMoniker": "Task3\\OrderSystem.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0438\u042F\u041F\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day10\\Task3\\OrderSystem.cs",
+              "RelativeToolTip": "Task3\\OrderSystem.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T07:30:32.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IOrderObserver.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0438\u042F\u041F\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day10\\Task3\\IOrderObserver.cs",
+              "RelativeDocumentMoniker": "Task3\\IOrderObserver.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0438\u042F\u041F\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day10\\Task3\\IOrderObserver.cs",
+              "RelativeToolTip": "Task3\\IOrderObserver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T07:26:14.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0438\u042F\u041F\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day10\\Task3\\Program.cs",
+              "RelativeDocumentMoniker": "Task3\\Program.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0438\u042F\u041F\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day10\\Task3\\Program.cs",
+              "RelativeToolTip": "Task3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T07:24:52.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Waiter.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0438\u042F\u041F\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day10\\Task3\\Waiter.cs",
+              "RelativeDocumentMoniker": "Task3\\Waiter.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0438\u042F\u041F\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day10\\Task3\\Waiter.cs",
+              "RelativeToolTip": "Task3\\Waiter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T07:27:08.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IAuthStrategy.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0438\u042F\u041F\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day10\\Task2\\IAuthStrategy.cs",
+              "RelativeDocumentMoniker": "Task2\\IAuthStrategy.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0438\u042F\u041F\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day10\\Task2\\IAuthStrategy.cs",
+              "RelativeToolTip": "Task2\\IAuthStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T06:29:58.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OAuthAuth.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0438\u042F\u041F\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day10\\Task2\\OAuthAuth.cs",
+              "RelativeDocumentMoniker": "Task2\\OAuthAuth.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0438\u042F\u041F\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day10\\Task2\\OAuthAuth.cs",
+              "RelativeToolTip": "Task2\\OAuthAuth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T06:32:26.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "JWTAuth.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0438\u042F\u041F\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day10\\Task2\\JWTAuth.cs",
+              "RelativeDocumentMoniker": "Task2\\JWTAuth.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0438\u042F\u041F\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day10\\Task2\\JWTAuth.cs",
+              "RelativeToolTip": "Task2\\JWTAuth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T06:32:47.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthenticationService.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0438\u042F\u041F\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day10\\Task2\\AuthenticationService.cs",
+              "RelativeDocumentMoniker": "Task2\\AuthenticationService.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0438\u042F\u041F\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day10\\Task2\\AuthenticationService.cs",
+              "RelativeToolTip": "Task2\\AuthenticationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T06:41:03.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BasicAuth.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0438\u042F\u041F\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day10\\Task2\\BasicAuth.cs",
+              "RelativeDocumentMoniker": "Task2\\BasicAuth.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0438\u042F\u041F\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day10\\Task2\\BasicAuth.cs",
+              "RelativeToolTip": "Task2\\BasicAuth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T06:33:02.639Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
