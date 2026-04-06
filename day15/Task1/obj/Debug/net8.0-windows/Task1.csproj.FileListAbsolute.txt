@@ -1,0 +1,121 @@
+D:\Учеба\2 КУРС\КПиЯП\Практика\day12\Task1\bin\Debug\net8.0-windows\Task1.exe
+D:\Учеба\2 КУРС\КПиЯП\Практика\day12\Task1\bin\Debug\net8.0-windows\Task1.deps.json
+D:\Учеба\2 КУРС\КПиЯП\Практика\day12\Task1\bin\Debug\net8.0-windows\Task1.runtimeconfig.json
+D:\Учеба\2 КУРС\КПиЯП\Практика\day12\Task1\bin\Debug\net8.0-windows\Task1.dll
+D:\Учеба\2 КУРС\КПиЯП\Практика\day12\Task1\bin\Debug\net8.0-windows\Task1.pdb
+D:\Учеба\2 КУРС\КПиЯП\Практика\day12\Task1\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Учеба\2 КУРС\КПиЯП\Практика\day12\Task1\obj\Debug\net8.0-windows\App.g.cs
+D:\Учеба\2 КУРС\КПиЯП\Практика\day12\Task1\obj\Debug\net8.0-windows\Task1_MarkupCompile.cache
+D:\Учеба\2 КУРС\КПиЯП\Практика\day12\Task1\obj\Debug\net8.0-windows\Task1_MarkupCompile.lref
+D:\Учеба\2 КУРС\КПиЯП\Практика\day12\Task1\obj\Debug\net8.0-windows\MainWindow.baml
+D:\Учеба\2 КУРС\КПиЯП\Практика\day12\Task1\obj\Debug\net8.0-windows\Task1.g.resources
+D:\Учеба\2 КУРС\КПиЯП\Практика\day12\Task1\obj\Debug\net8.0-windows\Task1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\2 КУРС\КПиЯП\Практика\day12\Task1\obj\Debug\net8.0-windows\Task1.AssemblyInfoInputs.cache
+D:\Учеба\2 КУРС\КПиЯП\Практика\day12\Task1\obj\Debug\net8.0-windows\Task1.AssemblyInfo.cs
+D:\Учеба\2 КУРС\КПиЯП\Практика\day12\Task1\obj\Debug\net8.0-windows\Task1.csproj.CoreCompileInputs.cache
+D:\Учеба\2 КУРС\КПиЯП\Практика\day12\Task1\obj\Debug\net8.0-windows\Task1.dll
+D:\Учеба\2 КУРС\КПиЯП\Практика\day12\Task1\obj\Debug\net8.0-windows\refint\Task1.dll
+D:\Учеба\2 КУРС\КПиЯП\Практика\day12\Task1\obj\Debug\net8.0-windows\Task1.pdb
+D:\Учеба\2 КУРС\КПиЯП\Практика\day12\Task1\obj\Debug\net8.0-windows\Task1.genruntimeconfig.cache
+D:\Учеба\2 КУРС\КПиЯП\Практика\day12\Task1\obj\Debug\net8.0-windows\ref\Task1.dll
+D:\Учеба\2 КУРС\КПиЯП\Практика\day12\Task1\obj\Debug\net8.0-windows\AddEmployee.g.cs
+D:\Учеба\2 КУРС\КПиЯП\Практика\day12\Task1\obj\Debug\net8.0-windows\AddEmployee.baml
+D:\Учеба\2 КУРС\КПиЯП\Практика\day12\Task1\obj\Debug\net8.0-windows\EditEmployee.g.cs
+D:\Учеба\2 КУРС\КПиЯП\Практика\day12\Task1\obj\Debug\net8.0-windows\EditEmployee.baml
+D:\Учеба\2 КУРС\КПиЯП\Практика\day13\Task1\bin\Debug\net8.0-windows\Task1.exe
+D:\Учеба\2 КУРС\КПиЯП\Практика\day13\Task1\bin\Debug\net8.0-windows\Task1.deps.json
+D:\Учеба\2 КУРС\КПиЯП\Практика\day13\Task1\bin\Debug\net8.0-windows\Task1.runtimeconfig.json
+D:\Учеба\2 КУРС\КПиЯП\Практика\day13\Task1\bin\Debug\net8.0-windows\Task1.dll
+D:\Учеба\2 КУРС\КПиЯП\Практика\day13\Task1\bin\Debug\net8.0-windows\Task1.pdb
+D:\Учеба\2 КУРС\КПиЯП\Практика\day13\Task1\obj\Debug\net8.0-windows\AddEmployee.g.cs
+D:\Учеба\2 КУРС\КПиЯП\Практика\day13\Task1\obj\Debug\net8.0-windows\EditEmployee.g.cs
+D:\Учеба\2 КУРС\КПиЯП\Практика\day13\Task1\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Учеба\2 КУРС\КПиЯП\Практика\day13\Task1\obj\Debug\net8.0-windows\App.g.cs
+D:\Учеба\2 КУРС\КПиЯП\Практика\day13\Task1\obj\Debug\net8.0-windows\Task1_MarkupCompile.cache
+D:\Учеба\2 КУРС\КПиЯП\Практика\day13\Task1\obj\Debug\net8.0-windows\Task1_MarkupCompile.lref
+D:\Учеба\2 КУРС\КПиЯП\Практика\day13\Task1\obj\Debug\net8.0-windows\AddEmployee.baml
+D:\Учеба\2 КУРС\КПиЯП\Практика\day13\Task1\obj\Debug\net8.0-windows\EditEmployee.baml
+D:\Учеба\2 КУРС\КПиЯП\Практика\day13\Task1\obj\Debug\net8.0-windows\MainWindow.baml
+D:\Учеба\2 КУРС\КПиЯП\Практика\day13\Task1\obj\Debug\net8.0-windows\Task1.g.resources
+D:\Учеба\2 КУРС\КПиЯП\Практика\day13\Task1\obj\Debug\net8.0-windows\Task1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\2 КУРС\КПиЯП\Практика\day13\Task1\obj\Debug\net8.0-windows\Task1.AssemblyInfoInputs.cache
+D:\Учеба\2 КУРС\КПиЯП\Практика\day13\Task1\obj\Debug\net8.0-windows\Task1.AssemblyInfo.cs
+D:\Учеба\2 КУРС\КПиЯП\Практика\day13\Task1\obj\Debug\net8.0-windows\Task1.csproj.CoreCompileInputs.cache
+D:\Учеба\2 КУРС\КПиЯП\Практика\day13\Task1\obj\Debug\net8.0-windows\Task1.dll
+D:\Учеба\2 КУРС\КПиЯП\Практика\day13\Task1\obj\Debug\net8.0-windows\refint\Task1.dll
+D:\Учеба\2 КУРС\КПиЯП\Практика\day13\Task1\obj\Debug\net8.0-windows\Task1.pdb
+D:\Учеба\2 КУРС\КПиЯП\Практика\day13\Task1\obj\Debug\net8.0-windows\Task1.genruntimeconfig.cache
+D:\Учеба\2 КУРС\КПиЯП\Практика\day13\Task1\obj\Debug\net8.0-windows\ref\Task1.dll
+D:\Учеба\2 КУРС\КПиЯП\Практика\day13 — копия\Task1\bin\Debug\net8.0-windows\Task1.exe
+D:\Учеба\2 КУРС\КПиЯП\Практика\day13 — копия\Task1\bin\Debug\net8.0-windows\Task1.deps.json
+D:\Учеба\2 КУРС\КПиЯП\Практика\day13 — копия\Task1\bin\Debug\net8.0-windows\Task1.runtimeconfig.json
+D:\Учеба\2 КУРС\КПиЯП\Практика\day13 — копия\Task1\bin\Debug\net8.0-windows\Task1.dll
+D:\Учеба\2 КУРС\КПиЯП\Практика\day13 — копия\Task1\bin\Debug\net8.0-windows\Task1.pdb
+D:\Учеба\2 КУРС\КПиЯП\Практика\day13 — копия\Task1\obj\Debug\net8.0-windows\AddEmployee.g.cs
+D:\Учеба\2 КУРС\КПиЯП\Практика\day13 — копия\Task1\obj\Debug\net8.0-windows\EditEmployee.g.cs
+D:\Учеба\2 КУРС\КПиЯП\Практика\day13 — копия\Task1\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Учеба\2 КУРС\КПиЯП\Практика\day13 — копия\Task1\obj\Debug\net8.0-windows\App.g.cs
+D:\Учеба\2 КУРС\КПиЯП\Практика\day13 — копия\Task1\obj\Debug\net8.0-windows\Task1_MarkupCompile.cache
+D:\Учеба\2 КУРС\КПиЯП\Практика\day13 — копия\Task1\obj\Debug\net8.0-windows\Task1_MarkupCompile.lref
+D:\Учеба\2 КУРС\КПиЯП\Практика\day13 — копия\Task1\obj\Debug\net8.0-windows\AddEmployee.baml
+D:\Учеба\2 КУРС\КПиЯП\Практика\day13 — копия\Task1\obj\Debug\net8.0-windows\EditEmployee.baml
+D:\Учеба\2 КУРС\КПиЯП\Практика\day13 — копия\Task1\obj\Debug\net8.0-windows\MainWindow.baml
+D:\Учеба\2 КУРС\КПиЯП\Практика\day13 — копия\Task1\obj\Debug\net8.0-windows\Task1.g.resources
+D:\Учеба\2 КУРС\КПиЯП\Практика\day13 — копия\Task1\obj\Debug\net8.0-windows\Task1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\2 КУРС\КПиЯП\Практика\day13 — копия\Task1\obj\Debug\net8.0-windows\Task1.AssemblyInfoInputs.cache
+D:\Учеба\2 КУРС\КПиЯП\Практика\day13 — копия\Task1\obj\Debug\net8.0-windows\Task1.AssemblyInfo.cs
+D:\Учеба\2 КУРС\КПиЯП\Практика\day13 — копия\Task1\obj\Debug\net8.0-windows\Task1.csproj.CoreCompileInputs.cache
+D:\Учеба\2 КУРС\КПиЯП\Практика\day13 — копия\Task1\obj\Debug\net8.0-windows\Task1.dll
+D:\Учеба\2 КУРС\КПиЯП\Практика\day13 — копия\Task1\obj\Debug\net8.0-windows\refint\Task1.dll
+D:\Учеба\2 КУРС\КПиЯП\Практика\day13 — копия\Task1\obj\Debug\net8.0-windows\Task1.pdb
+D:\Учеба\2 КУРС\КПиЯП\Практика\day13 — копия\Task1\obj\Debug\net8.0-windows\Task1.genruntimeconfig.cache
+D:\Учеба\2 КУРС\КПиЯП\Практика\day13 — копия\Task1\obj\Debug\net8.0-windows\ref\Task1.dll
+D:\Учеба\2 КУРС\КПиЯП\Практика\day14\Task1\bin\Debug\net8.0-windows\Task1.exe
+D:\Учеба\2 КУРС\КПиЯП\Практика\day14\Task1\bin\Debug\net8.0-windows\Task1.deps.json
+D:\Учеба\2 КУРС\КПиЯП\Практика\day14\Task1\bin\Debug\net8.0-windows\Task1.runtimeconfig.json
+D:\Учеба\2 КУРС\КПиЯП\Практика\day14\Task1\bin\Debug\net8.0-windows\Task1.dll
+D:\Учеба\2 КУРС\КПиЯП\Практика\day14\Task1\bin\Debug\net8.0-windows\Task1.pdb
+D:\Учеба\2 КУРС\КПиЯП\Практика\day14\Task1\obj\Debug\net8.0-windows\AddEmployee.g.cs
+D:\Учеба\2 КУРС\КПиЯП\Практика\day14\Task1\obj\Debug\net8.0-windows\EditEmployee.g.cs
+D:\Учеба\2 КУРС\КПиЯП\Практика\day14\Task1\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Учеба\2 КУРС\КПиЯП\Практика\day14\Task1\obj\Debug\net8.0-windows\App.g.cs
+D:\Учеба\2 КУРС\КПиЯП\Практика\day14\Task1\obj\Debug\net8.0-windows\Task1_MarkupCompile.cache
+D:\Учеба\2 КУРС\КПиЯП\Практика\day14\Task1\obj\Debug\net8.0-windows\Task1_MarkupCompile.lref
+D:\Учеба\2 КУРС\КПиЯП\Практика\day14\Task1\obj\Debug\net8.0-windows\AddEmployee.baml
+D:\Учеба\2 КУРС\КПиЯП\Практика\day14\Task1\obj\Debug\net8.0-windows\EditEmployee.baml
+D:\Учеба\2 КУРС\КПиЯП\Практика\day14\Task1\obj\Debug\net8.0-windows\MainWindow.baml
+D:\Учеба\2 КУРС\КПиЯП\Практика\day14\Task1\obj\Debug\net8.0-windows\Task1.g.resources
+D:\Учеба\2 КУРС\КПиЯП\Практика\day14\Task1\obj\Debug\net8.0-windows\Task1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\2 КУРС\КПиЯП\Практика\day14\Task1\obj\Debug\net8.0-windows\Task1.AssemblyInfoInputs.cache
+D:\Учеба\2 КУРС\КПиЯП\Практика\day14\Task1\obj\Debug\net8.0-windows\Task1.AssemblyInfo.cs
+D:\Учеба\2 КУРС\КПиЯП\Практика\day14\Task1\obj\Debug\net8.0-windows\Task1.csproj.CoreCompileInputs.cache
+D:\Учеба\2 КУРС\КПиЯП\Практика\day14\Task1\obj\Debug\net8.0-windows\Task1.dll
+D:\Учеба\2 КУРС\КПиЯП\Практика\day14\Task1\obj\Debug\net8.0-windows\refint\Task1.dll
+D:\Учеба\2 КУРС\КПиЯП\Практика\day14\Task1\obj\Debug\net8.0-windows\Task1.pdb
+D:\Учеба\2 КУРС\КПиЯП\Практика\day14\Task1\obj\Debug\net8.0-windows\Task1.genruntimeconfig.cache
+D:\Учеба\2 КУРС\КПиЯП\Практика\day14\Task1\obj\Debug\net8.0-windows\ref\Task1.dll
+D:\Учеба\2 КУРС\КПиЯП\Практика\day15\Task1\bin\Debug\net8.0-windows\Task1.exe
+D:\Учеба\2 КУРС\КПиЯП\Практика\day15\Task1\bin\Debug\net8.0-windows\Task1.deps.json
+D:\Учеба\2 КУРС\КПиЯП\Практика\day15\Task1\bin\Debug\net8.0-windows\Task1.runtimeconfig.json
+D:\Учеба\2 КУРС\КПиЯП\Практика\day15\Task1\bin\Debug\net8.0-windows\Task1.dll
+D:\Учеба\2 КУРС\КПиЯП\Практика\day15\Task1\bin\Debug\net8.0-windows\Task1.pdb
+D:\Учеба\2 КУРС\КПиЯП\Практика\day15\Task1\obj\Debug\net8.0-windows\AddEmployee.g.cs
+D:\Учеба\2 КУРС\КПиЯП\Практика\day15\Task1\obj\Debug\net8.0-windows\EditEmployee.g.cs
+D:\Учеба\2 КУРС\КПиЯП\Практика\day15\Task1\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Учеба\2 КУРС\КПиЯП\Практика\day15\Task1\obj\Debug\net8.0-windows\App.g.cs
+D:\Учеба\2 КУРС\КПиЯП\Практика\day15\Task1\obj\Debug\net8.0-windows\Task1_MarkupCompile.cache
+D:\Учеба\2 КУРС\КПиЯП\Практика\day15\Task1\obj\Debug\net8.0-windows\Task1_MarkupCompile.lref
+D:\Учеба\2 КУРС\КПиЯП\Практика\day15\Task1\obj\Debug\net8.0-windows\AddEmployee.baml
+D:\Учеба\2 КУРС\КПиЯП\Практика\day15\Task1\obj\Debug\net8.0-windows\EditEmployee.baml
+D:\Учеба\2 КУРС\КПиЯП\Практика\day15\Task1\obj\Debug\net8.0-windows\MainWindow.baml
+D:\Учеба\2 КУРС\КПиЯП\Практика\day15\Task1\obj\Debug\net8.0-windows\Task1.g.resources
+D:\Учеба\2 КУРС\КПиЯП\Практика\day15\Task1\obj\Debug\net8.0-windows\Task1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\2 КУРС\КПиЯП\Практика\day15\Task1\obj\Debug\net8.0-windows\Task1.AssemblyInfoInputs.cache
+D:\Учеба\2 КУРС\КПиЯП\Практика\day15\Task1\obj\Debug\net8.0-windows\Task1.AssemblyInfo.cs
+D:\Учеба\2 КУРС\КПиЯП\Практика\day15\Task1\obj\Debug\net8.0-windows\Task1.csproj.CoreCompileInputs.cache
+D:\Учеба\2 КУРС\КПиЯП\Практика\day15\Task1\obj\Debug\net8.0-windows\Task1.dll
+D:\Учеба\2 КУРС\КПиЯП\Практика\day15\Task1\obj\Debug\net8.0-windows\refint\Task1.dll
+D:\Учеба\2 КУРС\КПиЯП\Практика\day15\Task1\obj\Debug\net8.0-windows\Task1.pdb
+D:\Учеба\2 КУРС\КПиЯП\Практика\day15\Task1\obj\Debug\net8.0-windows\Task1.genruntimeconfig.cache
+D:\Учеба\2 КУРС\КПиЯП\Практика\day15\Task1\obj\Debug\net8.0-windows\ref\Task1.dll
+D:\Учеба\2 КУРС\КПиЯП\Практика\day15\Task1\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
