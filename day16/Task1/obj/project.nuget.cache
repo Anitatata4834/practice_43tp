@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "duS8JI7KBxI=",
+  "success": true,
+  "projectFilePath": "D:\\Учеба\\2 КУРС\\КПиЯП\\Практика\\day16\\Task1\\Task1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asus\\.nuget\\packages\\bcrypt.net-core\\1.6.0\\bcrypt.net-core.1.6.0.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
