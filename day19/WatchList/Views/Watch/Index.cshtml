@@ -1,0 +1,78 @@
+﻿@using WatchList.Models
+@model List<WatchItem>
+
+<h1 style="text-align:center; font-weight:900">Коллекция фильмов/сериалов для просмотра</h1><hr />
+<div style="display:flex; gap:90px; align-items:flex-start;">
+ 
+    <div>
+
+        <h3 style="font-weight:bold;">Добавить фильм/сериал</h3>
+
+        <form asp-action="Add" method="post" style="padding:15px; border:1px solid #ccc; border-radius:8px;">
+            <div style="margin-bottom:10px;">
+                <label style="display:block; font-weight:bold; color:dimgray">Название:</label>
+                <input type="text" name="title" style="width:100%; padding:5px;" />
+            </div>
+
+            <div style="margin-bottom:10px;">
+                <label style="display:block; font-weight:bold; color:dimgray">Тип:</label>
+                <select name="type" style="width:100%; padding:5px;">
+                    <option>Фильм</option>
+                    <option>Сериал</option>
+                </select>
+            </div>
+
+            <div style="margin-bottom:10px;">
+                <label style="display:block; font-weight:bold; color:dimgray">Статус:</label>
+                <select name="status" style="width:100%; padding:5px;">
+                    <option>Запланировано</option>
+                    <option>Смотрю</option>
+                    <option>Просмотрено</option>
+                </select>
+            </div><br />
+
+            <button type="submit" style="padding:8px 25px; cursor:pointer; border:1px solid black; background-color:black; color: white;">Добавить</button>
+        </form>
+    </div>
+
+   
+	<div style="flex-grow:1;">
+        <h3 style="margin-bottom:20px; font-weight:bold;">Фильмы/сериалы по статусу</h3>
+        <form style="padding:15px; border:1px solid #ccc; border-radius:8px;">
+
+            <h4 style="font-weight:bold; color:dimgray">Запланировано</h4>
+        <ul style="margin-bottom:20px;">
+            @foreach (var item in Model.Where(x => x.Status == "Запланировано"))
+            {
+                <li style="margin-bottom:5px;">
+                    @item.Title (@item.Type)
+                    |
+                    <a asp-action="MarkAsWatched" asp-route-id="@item.Id">Отметить как просмотрено</a>
+                </li>
+            }
+        </ul>
+
+            <h4 style="font-weight:bold; color:dimgray">Смотрю</h4>
+        <ul style="margin-bottom:20px;">
+            @foreach (var item in Model.Where(x => x.Status == "Смотрю"))
+            {
+                <li style="margin-bottom:5px;">
+                    @item.Title (@item.Type)
+                    |
+                    <a asp-action="MarkAsWatched" asp-route-id="@item.Id">Отметить как просмотрено</a>
+                </li>
+            }
+        </ul>
+
+            <h4 style="font-weight:bold; color:dimgray">Просмотрено</h4>
+        <ul style="margin-bottom:20px;">
+            @foreach (var item in Model.Where(x => x.Status == "Просмотрено"))
+            {
+                <li style="margin-bottom:5px;">
+                    @item.Title (@item.Type)
+                </li>
+            }
+        </ul>
+    </form>
+    </div>
+</div>
