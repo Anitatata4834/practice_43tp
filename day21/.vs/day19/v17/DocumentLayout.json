@@ -1,0 +1,235 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0438\u042F\u041F\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day19 \u2014 \u043A\u043E\u043F\u0438\u044F\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E377BAAD-0CC2-4949-A30A-52874DE1B826}|WatchList\\WatchList.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u043A\u043F\u0438\u044F\u043F\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day19 \u2014 \u043A\u043E\u043F\u0438\u044F\\watchlist\\viewmodels\\watchlistitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E377BAAD-0CC2-4949-A30A-52874DE1B826}|WatchList\\WatchList.csproj|solutionrelative:watchlist\\viewmodels\\watchlistitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E377BAAD-0CC2-4949-A30A-52874DE1B826}|WatchList\\WatchList.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u043A\u043F\u0438\u044F\u043F\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day19 \u2014 \u043A\u043E\u043F\u0438\u044F\\watchlist\\controllers\\watchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E377BAAD-0CC2-4949-A30A-52874DE1B826}|WatchList\\WatchList.csproj|solutionrelative:watchlist\\controllers\\watchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E377BAAD-0CC2-4949-A30A-52874DE1B826}|WatchList\\WatchList.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u043A\u043F\u0438\u044F\u043F\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day19 \u2014 \u043A\u043E\u043F\u0438\u044F\\watchlist\\models\\watchitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E377BAAD-0CC2-4949-A30A-52874DE1B826}|WatchList\\WatchList.csproj|solutionrelative:watchlist\\models\\watchitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E377BAAD-0CC2-4949-A30A-52874DE1B826}|WatchList\\WatchList.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u043A\u043F\u0438\u044F\u043F\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day19 \u2014 \u043A\u043E\u043F\u0438\u044F\\watchlist\\services\\watchlistitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E377BAAD-0CC2-4949-A30A-52874DE1B826}|WatchList\\WatchList.csproj|solutionrelative:watchlist\\services\\watchlistitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E377BAAD-0CC2-4949-A30A-52874DE1B826}|WatchList\\WatchList.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u043A\u043F\u0438\u044F\u043F\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day19 \u2014 \u043A\u043E\u043F\u0438\u044F\\watchlist\\services\\watchlistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E377BAAD-0CC2-4949-A30A-52874DE1B826}|WatchList\\WatchList.csproj|solutionrelative:watchlist\\services\\watchlistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E377BAAD-0CC2-4949-A30A-52874DE1B826}|WatchList\\WatchList.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u043A\u043F\u0438\u044F\u043F\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day19 \u2014 \u043A\u043E\u043F\u0438\u044F\\watchlist\\views\\watch\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E377BAAD-0CC2-4949-A30A-52874DE1B826}|WatchList\\WatchList.csproj|solutionrelative:watchlist\\views\\watch\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E377BAAD-0CC2-4949-A30A-52874DE1B826}|WatchList\\WatchList.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u043A\u043F\u0438\u044F\u043F\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day19 \u2014 \u043A\u043E\u043F\u0438\u044F\\watchlist\\services\\iwatchlistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E377BAAD-0CC2-4949-A30A-52874DE1B826}|WatchList\\WatchList.csproj|solutionrelative:watchlist\\services\\iwatchlistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E377BAAD-0CC2-4949-A30A-52874DE1B826}|WatchList\\WatchList.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u043A\u043F\u0438\u044F\u043F\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day19 \u2014 \u043A\u043E\u043F\u0438\u044F\\watchlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E377BAAD-0CC2-4949-A30A-52874DE1B826}|WatchList\\WatchList.csproj|solutionrelative:watchlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E377BAAD-0CC2-4949-A30A-52874DE1B826}|WatchList\\WatchList.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u043A\u043F\u0438\u044F\u043F\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day19 \u2014 \u043A\u043E\u043F\u0438\u044F\\watchlist\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E377BAAD-0CC2-4949-A30A-52874DE1B826}|WatchList\\WatchList.csproj|solutionrelative:watchlist\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E377BAAD-0CC2-4949-A30A-52874DE1B826}|WatchList\\WatchList.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u043A\u043F\u0438\u044F\u043F\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day19 \u2014 \u043A\u043E\u043F\u0438\u044F\\watchlist\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E377BAAD-0CC2-4949-A30A-52874DE1B826}|WatchList\\WatchList.csproj|solutionrelative:watchlist\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E377BAAD-0CC2-4949-A30A-52874DE1B826}|WatchList\\WatchList.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u043A\u043F\u0438\u044F\u043F\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day19 \u2014 \u043A\u043E\u043F\u0438\u044F\\watchlist\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E377BAAD-0CC2-4949-A30A-52874DE1B826}|WatchList\\WatchList.csproj|solutionrelative:watchlist\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E377BAAD-0CC2-4949-A30A-52874DE1B826}|WatchList\\WatchList.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u043A\u043F\u0438\u044F\u043F\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day19 \u2014 \u043A\u043E\u043F\u0438\u044F\\watchlist\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E377BAAD-0CC2-4949-A30A-52874DE1B826}|WatchList\\WatchList.csproj|solutionrelative:watchlist\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E377BAAD-0CC2-4949-A30A-52874DE1B826}|WatchList\\WatchList.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u043A\u043F\u0438\u044F\u043F\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day19 \u2014 \u043A\u043E\u043F\u0438\u044F\\watchlist\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E377BAAD-0CC2-4949-A30A-52874DE1B826}|WatchList\\WatchList.csproj|solutionrelative:watchlist\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WatchItem.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0438\u042F\u041F\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day19 \u2014 \u043A\u043E\u043F\u0438\u044F\\WatchList\\Models\\WatchItem.cs",
+              "RelativeDocumentMoniker": "WatchList\\Models\\WatchItem.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0438\u042F\u041F\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day19 \u2014 \u043A\u043E\u043F\u0438\u044F\\WatchList\\Models\\WatchItem.cs",
+              "RelativeToolTip": "WatchList\\Models\\WatchItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T14:05:56.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WatchlistItemDto.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0438\u042F\u041F\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day19 \u2014 \u043A\u043E\u043F\u0438\u044F\\WatchList\\Services\\WatchlistItemDto.cs",
+              "RelativeDocumentMoniker": "WatchList\\Services\\WatchlistItemDto.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0438\u042F\u041F\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day19 \u2014 \u043A\u043E\u043F\u0438\u044F\\WatchList\\Services\\WatchlistItemDto.cs",
+              "RelativeToolTip": "WatchList\\Services\\WatchlistItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T12:46:29.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WatchController.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0438\u042F\u041F\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day19 \u2014 \u043A\u043E\u043F\u0438\u044F\\WatchList\\Controllers\\WatchController.cs",
+              "RelativeDocumentMoniker": "WatchList\\Controllers\\WatchController.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0438\u042F\u041F\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day19 \u2014 \u043A\u043E\u043F\u0438\u044F\\WatchList\\Controllers\\WatchController.cs",
+              "RelativeToolTip": "WatchList\\Controllers\\WatchController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T13:15:14.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0438\u042F\u041F\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day19 \u2014 \u043A\u043E\u043F\u0438\u044F\\WatchList\\Views\\Watch\\Index.cshtml",
+              "RelativeDocumentMoniker": "WatchList\\Views\\Watch\\Index.cshtml",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0438\u042F\u041F\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day19 \u2014 \u043A\u043E\u043F\u0438\u044F\\WatchList\\Views\\Watch\\Index.cshtml",
+              "RelativeToolTip": "WatchList\\Views\\Watch\\Index.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-10T13:21:05.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WatchlistService.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0438\u042F\u041F\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day19 \u2014 \u043A\u043E\u043F\u0438\u044F\\WatchList\\Services\\WatchlistService.cs",
+              "RelativeDocumentMoniker": "WatchList\\Services\\WatchlistService.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0438\u042F\u041F\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day19 \u2014 \u043A\u043E\u043F\u0438\u044F\\WatchList\\Services\\WatchlistService.cs",
+              "RelativeToolTip": "WatchList\\Services\\WatchlistService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T12:48:23.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WatchlistItemViewModel.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0438\u042F\u041F\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day19 \u2014 \u043A\u043E\u043F\u0438\u044F\\WatchList\\ViewModels\\WatchlistItemViewModel.cs",
+              "RelativeDocumentMoniker": "WatchList\\ViewModels\\WatchlistItemViewModel.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0438\u042F\u041F\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day19 \u2014 \u043A\u043E\u043F\u0438\u044F\\WatchList\\ViewModels\\WatchlistItemViewModel.cs",
+              "RelativeToolTip": "WatchList\\ViewModels\\WatchlistItemViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T12:45:10.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0438\u042F\u041F\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day19 \u2014 \u043A\u043E\u043F\u0438\u044F\\WatchList\\Program.cs",
+              "RelativeDocumentMoniker": "WatchList\\Program.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0438\u042F\u041F\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day19 \u2014 \u043A\u043E\u043F\u0438\u044F\\WatchList\\Program.cs",
+              "RelativeToolTip": "WatchList\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T13:18:46.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IWatchlistService.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0438\u042F\u041F\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day19 \u2014 \u043A\u043E\u043F\u0438\u044F\\WatchList\\Services\\IWatchlistService.cs",
+              "RelativeDocumentMoniker": "WatchList\\Services\\IWatchlistService.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0438\u042F\u041F\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day19 \u2014 \u043A\u043E\u043F\u0438\u044F\\WatchList\\Services\\IWatchlistService.cs",
+              "RelativeToolTip": "WatchList\\Services\\IWatchlistService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T12:47:04.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0438\u042F\u041F\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day19 \u2014 \u043A\u043E\u043F\u0438\u044F\\WatchList\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WatchList\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0438\u042F\u041F\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day19 \u2014 \u043A\u043E\u043F\u0438\u044F\\WatchList\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WatchList\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-11T05:47:46.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0438\u042F\u041F\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day19 \u2014 \u043A\u043E\u043F\u0438\u044F\\WatchList\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "WatchList\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0438\u042F\u041F\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day19 \u2014 \u043A\u043E\u043F\u0438\u044F\\WatchList\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "WatchList\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-11T05:47:58.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0438\u042F\u041F\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day19 \u2014 \u043A\u043E\u043F\u0438\u044F\\WatchList\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "WatchList\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0438\u042F\u041F\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day19 \u2014 \u043A\u043E\u043F\u0438\u044F\\WatchList\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "WatchList\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T05:51:30.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0438\u042F\u041F\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day19 \u2014 \u043A\u043E\u043F\u0438\u044F\\WatchList\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "WatchList\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0438\u042F\u041F\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day19 \u2014 \u043A\u043E\u043F\u0438\u044F\\WatchList\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "WatchList\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-11T05:53:49.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0438\u042F\u041F\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day19 \u2014 \u043A\u043E\u043F\u0438\u044F\\WatchList\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WatchList\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0438\u042F\u041F\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\day19 \u2014 \u043A\u043E\u043F\u0438\u044F\\WatchList\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "WatchList\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-10T13:32:32.469Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
